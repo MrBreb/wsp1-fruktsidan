@@ -19,6 +19,7 @@ class App < Sinatra::Base
     end
 
 
+
     #TODO: Skriv routen hämtar alla frukter i databasen
 
 end
